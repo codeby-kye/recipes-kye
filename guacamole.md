@@ -2,5 +2,6 @@
 ## Ingredients
 * avocado
 * lime
+* jalepenos
 * salt
 ## Instructions
